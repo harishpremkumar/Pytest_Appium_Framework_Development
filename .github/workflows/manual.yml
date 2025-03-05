@@ -3,7 +3,7 @@ name: PyTest Automation Tests with Bdd Structure
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
