@@ -1,0 +1,5 @@
+archive/
+output.json
+tests/__pycache__
+pytest_html*
+screenshot*
