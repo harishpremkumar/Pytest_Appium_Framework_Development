@@ -1,0 +1,6 @@
+pytest
+pytest-bdd
+pytest-xdist
+selenium==4.15.2
+webdriver-manager
+Appium-Python-Client==4.0.0

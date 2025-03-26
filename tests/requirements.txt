@@ -1,8 +1,0 @@
-pytest
-pytest-bdd
-allure-pytest-bdd
-pytest-html
-pytest-html-reporter 
-selenium
-webdriver-manager
-Appium-Python-Client
